@@ -1,0 +1,6 @@
+{
+  "name": "Revision Master",
+  "description": "Smart spaced repetition, item revision, daily practice and exam preparation app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
